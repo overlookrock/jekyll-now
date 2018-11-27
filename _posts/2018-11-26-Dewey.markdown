@@ -1,0 +1,20 @@
+Dewey Decimal Classification System.
+
+First question that I have had when planning the blog, is how we can classify the data analysis that I will do. We can find data on Sports, Culture, Economics,... 
+
+Initially, Trivial Pursuit classification came into my mind:
+
+<div style="text-align:center"><img src ="./images/Trivialpursuit_Token.jpg" /></div>
+
+* Geography
+* Entertainment
+* History
+* Arts & Literature
+* Science & Nature
+* Sports & Leisure
+
+
+
+However, other classifications exists. We need to consideer that the volume of data available for analysis has increase during last years, but classification is not a new, and probably was still more required on the past, when searching was not as easy as press CTRL+F.
+
+
