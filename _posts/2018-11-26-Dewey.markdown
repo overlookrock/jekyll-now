@@ -19,7 +19,6 @@ However, other classifications exists. We need to consideer that the volume of d
 
 On 1876, Melvil Dewey, an american librarian, publish an article explaining their classification system after several years of development (http://www.gutenberg.org/files/12513/12513-h/12513-h.htm) , the categories that he suggest on the articles were:
 
-<center>
 
 |Number | Area |
 |:-------:|------|
@@ -34,7 +33,6 @@ On 1876, Melvil Dewey, an american librarian, publish an article explaining thei
 |800 | Literature |
 |900 | History & geography |
 
-</center>
 
 This is only the first level of divisions, because each of this divisions, grow as a tree, including other sub-division, with different reference numbers.
 Maybe use, at least the first level of divisions of the DDC (Dewey Decimal Classification) as reference to find and analyse data from different areas could be a good idea.
