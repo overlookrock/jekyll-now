@@ -17,4 +17,26 @@ Initially, Trivial Pursuit classification came into my mind:
 
 However, other classifications exists. We need to consideer that the volume of data available for analysis has increase during last years, but classification is not a new, and probably was still more required on the past, when searching was not as easy as press CTRL+F.
 
+On 1876, Melvil Dewey, an american librarian, publish an article explaining their classification system after several years of development (http://www.gutenberg.org/files/12513/12513-h/12513-h.htm) , the categories that he suggest on the articles were:
+
+<center>
+
+|Number | Area |
+|:-------:|------|
+|000 | Computer science, information & general works |
+|100 | Philosophy & psychology |
+|200 | Religion |
+|300 | Social sciences |
+|400 | Language |
+|500 | Pure Science |
+|600 | Technology |
+|700 | Arts & recreation |
+|800 | Literature |
+|900 | History & geography |
+
+</center>
+
+This is only the first level of divisions, because each of this divisions, grow as a tree, including other sub-division, with different reference numbers.
+Maybe use, at least the first level of divisions of the DDC (Dewey Decimal Classification) as reference to find and analyse data from different areas could be a good idea.
+
 
